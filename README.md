@@ -1,7 +1,7 @@
-# Hexagonal 2048
-Another double version of [2048](http://gabrielecirulli.github.io/2048/).
+# 3k
+An online version of 3k.
 
-Made just for fun. [Play it here!](http://baiqiang.github.io/2048-hexagon/)
+Made just for fun. [Play it here!](http://true65536.github.io/3k/)
 
 # 2048
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
